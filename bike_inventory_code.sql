@@ -64,12 +64,6 @@ select *
 from orders
 order by order_date desc;
 
--- Find the top 10 best-selling products.
-select*
-from order_items
-order by product_id desc
-limit 10;
-
 -- Get all products that belong to a specific category (e.g., "Mountain Bikes")
 select P.product_name, P.category_id, P.list_price, C.category_name
 from products as P join categories as C 

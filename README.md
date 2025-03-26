@@ -34,25 +34,54 @@ This section highlights key SQL queries used in the analysis and provides a conc
 
 ## Potential Business Questions
 
-###1.Customer Database
+### 1.Customer Database
+
 ![](Outputs/customer_table.png)
 
-###2.You need to provide customer firstname, lastname and email id
+### 2.You need to provide customer firstname, lastname and email id
+
 ![](Outputs/customer_information.png)
 
-###3.Retrieve bike details based on a specific brand
-###4.Get the total number of orders placed
-###5.Retrieve details of all items in a specific order (e.g., order_id = 1)
-###6.Find the total number of customers
-###7.Retrieve all orders placed in the year 2016
-###8.Retrieve all products along with their brand names
-###9.Find all customers who have placed an order, along with their order details
-###10.List all products along with their category names
-###11.Find which store has sold the most orders.
-###12.Show the most expensive products first.
-###13.List the most recent orders.
-###14.Find the top 10 best-selling products
-###15.Get all products that belong to a specific category (e.g., "Mountain Bikes")
-###16.Find the Top 10 Best-Selling Products
-###17.Calculate the Total Revenue Generated
-###18.Get the Total Quantity of Each Product Sold
+### 3.Retrieve bike details based on a specific brand
+
+![](Outputs/bike_details_based_on_specific_brand.png)
+
+### 4.Get the total number of orders placed
+
+![](Outputs/total_no_orders_placed.png)
+
+### 5.Retrieve details of all items in a specific order (e.g., order_id = 1)
+
+![](Outputs/bike_details_based_on_specific_brand.png)
+
+### 6.Find the total number of customers
+
+![](Outputs/total_no_customers.png)
+
+### 7.Retrieve all orders placed in the year 2016
+
+![](Outputs/order_placed_year2016.png)
+
+### 8.Retrieve all products along with their brand names
+
+![](Outputs/product+brand.png)
+
+### 9.Find all customers who have placed an order, along with their order details
+
+![](Outputs/customers_who_placed_orders.png)
+
+### 10.List all products along with their category names
+
+![](Outputs/products_with_category_names.png)
+
+### 11.Find which store has sold the most orders.
+
+![](Outputs/store_selling_most_orders.png)
+
+### 12.Show the most expensive products first.
+### 13.List the most recent orders.
+### 14.Find the top 10 best-selling products
+### 15.Get all products that belong to a specific category (e.g., "Mountain Bikes")
+### 16.Find the Top 10 Best-Selling Products
+### 17.Calculate the Total Revenue Generated
+### 18.Get the Total Quantity of Each Product Sold

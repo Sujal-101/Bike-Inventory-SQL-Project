@@ -96,12 +96,12 @@ This section highlights key SQL queries used in the analysis and provides a conc
 
 ### 16.Find the Top 10 Best-Selling Products
 
-![](Outputs/store_selling_most_orders.png)
+![](Outputs/best_selling_products.png)
 
 ### 17.Calculate the Total Revenue Generated
 
-![](Outputs/store_selling_most_orders.png)
+![](Outputs/total_revenue_generated.png)
 
 ### 18.Get the Total Quantity of Each Product Sold
 
-![](Outputs/store_selling_most_orders.png)
+![](Outputs/total_quantity_product_sold.png)

@@ -31,3 +31,8 @@ The dataset for this analysis is stored in CSV files within the Data folder.
 
 ## Data Analysis
 This section highlights key SQL queries used in the analysis and provides a concise summary of the insights derived from the data.
+
+## Potential Business Questions
+
+###1.Customer Database
+

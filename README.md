@@ -1,5 +1,5 @@
 # Bike-Inventory-SQL-Project
-
+![](https://github.com/Sujal-101/Bike-Inventory-SQL-Project/blob/main/Outputs/logo.png)
 
 ## Tables in the Database
 - Brands: Stores information about different bike brands available in the inventory.

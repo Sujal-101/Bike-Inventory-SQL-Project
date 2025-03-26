@@ -1,8 +1,16 @@
 # Bike-Inventory-SQL-Project
 
 
-## Table of Database
-
+## Tables in the Database
+Brands: Stores information about different bike brands available in the inventory.
+Customers: Contains details of customers, including their names and contact information.
+Categories: Defines product categories, such as Mountain Bikes, Road Bikes, and Accessories.
+Order_items: Records individual products within each order, including quantity and price details.
+Orders: Stores customer orders, including order dates and associated customer IDs.
+Products: Contains details of all available products, including names, prices, and category IDs.
+Staffs: Includes information about employees managing sales and store operations.
+Stocks: Tracks product inventory levels across different stores.
+Stores: Maintains details of all store locations, including names and addresses.
 
 ### Project Overview
 ---

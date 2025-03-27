@@ -52,7 +52,7 @@ This section highlights key SQL queries used in the analysis and provides a conc
 
 ### 5.Retrieve details of all items in a specific order (e.g., order_id = 1)
 
-![](Outputs/bike_details_based_on_specific_brand.png)
+![](Outputs/specific_order.png)
 
 ### 6.Find the total number of customers
 

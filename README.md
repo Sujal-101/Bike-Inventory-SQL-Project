@@ -86,22 +86,18 @@ This section highlights key SQL queries used in the analysis and provides a conc
 
 ![](Outputs/most_recent_orders.png)
 
-### 14.Find the top 10 best-selling products
-
-![](Outputs/best_selling_products.png)
-
-### 15.Get all products that belong to a specific category (e.g., "Mountain Bikes")
+### 14.Get all products that belong to a specific category (e.g., "Mountain Bikes")
 
 ![](Outputs/products_belongs_to_specific_category.png)
 
-### 16.Find the Top 10 Best-Selling Products
+### 15.Find the Top 10 Best-Selling Products
 
 ![](Outputs/best_selling_products.png)
 
-### 17.Calculate the Total Revenue Generated
+### 16.Calculate the Total Revenue Generated
 
 ![](Outputs/total_revenue_generated.png)
 
-### 18.Get the Total Quantity of Each Product Sold
+### 17.Get the Total Quantity of Each Product Sold
 
 ![](Outputs/total_quantity_product_sold.png)

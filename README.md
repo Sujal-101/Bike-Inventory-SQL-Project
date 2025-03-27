@@ -19,7 +19,7 @@ This data analysis project was undertaken to enhance my SQL querying skills whil
 
 ### Skills Demonstrated
 --- 
-- Crafting effective and optimized SQL queries
+Crafting effective and optimized SQL queries
 
 ### Data Sources
 ---
@@ -27,7 +27,7 @@ The dataset for this analysis is stored in CSV files within the Data folder.
 
 ### Tools Used
 ---
-- MySQL for querying and data analysis.
+MySQL for querying and data analysis.
 
 ## Data Analysis
 This section highlights key SQL queries used in the analysis and provides a concise summary of the insights derived from the data.

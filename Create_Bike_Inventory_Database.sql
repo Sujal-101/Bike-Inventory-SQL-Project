@@ -1,3 +1,7 @@
+CREATE DATABASE bikeinventory;
+
+use bikeinventory;
+
 CREATE TABLE brands (
     brand_id INT PRIMARY KEY,
     brand_name VARCHAR(255) NOT NULL

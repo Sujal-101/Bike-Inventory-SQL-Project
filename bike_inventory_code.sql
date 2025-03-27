@@ -65,19 +65,13 @@ select *
 from orders
 order by order_date desc;
 
--- 14.Find the top 10 best-selling products.
-select*
-from order_items
-order by product_id desc
-limit 10;
-
--- 15.Get all products that belong to a specific category (e.g., "Mountain Bikes")
+-- 14.Get all products that belong to a specific category (e.g., "Mountain Bikes")
 select P.product_name, P.category_id, P.list_price, C.category_name
 from products as P join categories as C 
 on P.category_id = C.category_id
 where C.category_name = "Mountain Bikes";
 
--- 16.Find the Top 10 Best-Selling Products
+-- 15.Find the Top 10 Best-Selling Products
 select p.product_id, p.product_name, SUM(oi.quantity) AS total_quantity_sold
 from order_items oi
 join products p ON oi.product_id = p.product_id
@@ -85,13 +79,13 @@ group by p.product_id, p.product_name
 order by total_quantity_sold DESC
 limit 10;
 
--- 17.Calculate the Total Revenue Generated
+-- 16.Calculate the Total Revenue Generated
 select SUM(oi.quantity * p.list_price) AS total_revenue
 from order_items oi
 join products p 
 ON oi.product_id = p.product_id;
 
--- 18.Get the Total Quantity of Each Product Sold
+-- 17.Get the Total Quantity of Each Product Sold
 select p.product_id, p.product_name, SUM(oi.quantity) AS total_quantity_sold
 from products p
 join order_items oi ON p.product_id = oi.product_id
